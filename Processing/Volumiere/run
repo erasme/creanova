@@ -1,0 +1,4 @@
+#!/bin/bash
+
+processing-java --force --sketch=/home/erasme/Volumiere/Processing/Volumiere --output=/home/erasme/Volumiere/Processing/Volumiere/output --run 
+rm -f hs_err*.log
